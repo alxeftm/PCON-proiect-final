@@ -1,5 +1,5 @@
 # (Titlul)
-(Scurtă descriere)
+Un program care genereaza visuals pentru fisierele audio incarcate, si care reactioneaza in diverse moduri in functie de activitatea pe diferite benzi de frecventa.
 
 ## (Instalare)
 
