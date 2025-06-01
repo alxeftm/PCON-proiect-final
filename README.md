@@ -2,21 +2,20 @@
 (Scurtă descriere)
 
 ## (Instalare)
-...
+
 
 ## (Utilizare)
-...
+Se deschide programul si se introduce un fisier audio in sfplay~ si se apasa start.
 
 ## (Istoric)
 
-(13.05) ...
+(19.05) Prima versiune. Citire matrice din camera si crearea unor elemente din patch.
 
-(3.06) ...
-
-(X.06) ...
+(30.05 - 01.06) A doua versiune. Moduri si vizualizare avansata si reactiva in functie de fisierul audio si parametrii/activitatea pe benzi de frecventa.
 
 ## (Link-uri)
-...
+https://www.youtube.com/watch?v=pxDtFFIbBDI
+- elemente de generare vizuala
 
 # Dezvoltarea proiectului
 
