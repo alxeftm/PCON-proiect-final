@@ -1,21 +1,30 @@
 # (Titlul)
-Un program care genereaza visuals pentru fisierele audio incarcate, si care reactioneaza in diverse moduri in functie de activitatea pe diferite benzi de frecventa.
+Reactive Visuals – Visualizator 3D reactiv la sunet
+
+Un program dezvoltat in Max care genereaza forme 3D reactive in functie de un fisier audio incarcat. Foloseste o combinatie de analiza audio pe benzi, matrice video si rendering 3D care raspund in timp real la benzile de frecvente.
 
 ## (Instalare)
-
+1. Necesita Max 8.6 sau versiune mai noua.
+2. Descarca si instaleaza Max.
+3. Deschide fisierul direct in Max.
+4. Verifica daca ai activitate pe placa de sunet.
 
 ## (Utilizare)
-Se deschide programul si se introduce un fisier audio in sfplay~ si se apasa start.
+1. Incarca un fisier in obiectul sfplay~.
+2. Apasa START pentru a porni redarea.
+3. Visuals vor raspunde la spectrul audio.
+4. Camera video este optionala si poate influenta dinamica punctelor (IN CURS DE IMPLEMENTARE).
+5. Sliderele controleaza diversi parametri de efecte.
 
 ## (Istoric)
-
 (19.05) Prima versiune. Citire matrice din camera si crearea unor elemente din patch.
-
 (30.05 - 01.06) A doua versiune. Moduri si vizualizare avansata si reactiva in functie de fisierul audio si parametrii/activitatea pe benzi de frecventa.
+(14.06 - 16.06) A treia versiune. Testare finala a ultimelor optimizari, ajustari vizuale.
 
 ## (Link-uri)
 https://www.youtube.com/watch?v=pxDtFFIbBDI
 - elemente de generare vizuala
+https://docs.cycling74.com/legacy/max8/refpages/jit.gl.isosurf
 
 # Dezvoltarea proiectului
 
