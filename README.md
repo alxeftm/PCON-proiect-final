@@ -26,6 +26,7 @@ Un program dezvoltat in Max care genereaza forme 3D reactive in functie de un fi
 ## (Link-uri)
 https://www.youtube.com/watch?v=pxDtFFIbBDI
 - elemente de generare vizuala
+
 https://docs.cycling74.com/legacy/max8/refpages/jit.gl.isosurf
 
 # Dezvoltarea proiectului
