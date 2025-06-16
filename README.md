@@ -18,7 +18,9 @@ Un program dezvoltat in Max care genereaza forme 3D reactive in functie de un fi
 
 ## (Istoric)
 (19.05) Prima versiune. Citire matrice din camera si crearea unor elemente din patch.
+
 (30.05 - 01.06) A doua versiune. Moduri si vizualizare avansata si reactiva in functie de fisierul audio si parametrii/activitatea pe benzi de frecventa.
+
 (14.06 - 16.06) A treia versiune. Testare finala a ultimelor optimizari, ajustari vizuale.
 
 ## (Link-uri)
